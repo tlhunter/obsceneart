@@ -1,0 +1,1 @@
+<div class="error">This feature isn't yet implemented. Contact us using the email address for your account, tell us your username, and we'll delete it for you.</div>
