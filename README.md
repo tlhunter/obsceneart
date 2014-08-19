@@ -13,7 +13,19 @@ Users can vote on texts, tag, search and browse, etc.
 * Tank_auth 1.0.7
 * Modular Extensions 5.4
 
+## License
+
+BSD
+
 ## Changelog
+
+### 20140819
+* Flattened Repo
+* Open Sourcing
+
+### 20130126
+* Lots of cleanup
+* Considered selling on Envato
 
 ### 20120126
 * Syntax highlighter
@@ -24,3 +36,6 @@ Users can vote on texts, tag, search and browse, etc.
 * Analytics view
 * Link to recent text posts in sidebar
 * Private text uploads
+
+### 20110208
+* First build
