@@ -1,9 +1,14 @@
 # ObsceneArt
 
-Originally used for storing funny online quotes (a competitor to bash.org). Now it's been expanded to
-also have a syntax highlighter and other features for more generic use.
+* Originally used for storing funny online quotes (a competitor to bash.org).
+* Now it's been expanded to also have a syntax highlighter and other features for more generic use.
+* Users can vote on texts, tag, search and browse, etc.
 
-Users can vote on texts, tag, search and browse, etc.
+## Disclaimer
+
+* This repository is bound to contain many security issues.
+* The code is several years old and has been uploaded for historical purposes only.
+* Do not consider it an example of my current coding capability ;)
 
 ## Third Party Libraries
 * CodeIgniter 2.0
